@@ -1,7 +1,3 @@
-'''
-import base64
-import json
-'''
 import sys
 import requests
 import re
